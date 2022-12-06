@@ -9,7 +9,7 @@ import (
 	"path/filepath"
 	"text/template"
 
-	"github.com/alexchao26/advent-of-code-go/util"
+	"github.com/Threnklyn/advent-of-code-go/util"
 )
 
 //go:embed tmpls/*.go

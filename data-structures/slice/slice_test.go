@@ -4,7 +4,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/alexchao26/advent-of-code-go/data-structures/slice"
+	"github.com/Threnklyn/advent-of-code-go/data-structures/slice"
 )
 
 func TestDedupeStrings(t *testing.T) {

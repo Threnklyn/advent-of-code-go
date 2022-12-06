@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/alexchao26/advent-of-code-go/cast"
-	"github.com/alexchao26/advent-of-code-go/util"
+	"github.com/Threnklyn/advent-of-code-go/cast"
+	"github.com/Threnklyn/advent-of-code-go/util"
 )
 
 //go:embed input.txt
